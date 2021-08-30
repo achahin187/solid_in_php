@@ -1,0 +1,15 @@
+{
+    "name": "abdo/solid_in_php",
+    "description": "solid inphp",
+    "authors": [{
+        "name": "Abdelrahman Shahin",
+        "email": "a.shahin@eramint.net"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "classes\\": "classes",
+            "Interfaces\\": "Interfaces"
+        }
+    }
+}
